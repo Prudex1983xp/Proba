@@ -1,0 +1,5 @@
+﻿Детский,baby,
+Зимний,frozen,
+Свадьба,wedding,
+Стопка,stacks,
+Немое кино,silent_film,
